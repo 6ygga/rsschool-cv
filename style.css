@@ -2,15 +2,8 @@
     display: block;
     margin: 0 auto;
     width: 90%;
-    height: 200px;
-    max-width: 800px;
-}
-
-.img-header {
-    display: block;
-    width: 100px;
     height: 100px;
-    margin: 0 auto;
+    max-width: 800px;
 }
 
 .h1-name { text-align: center }
@@ -19,6 +12,14 @@
     width: 90%;
     max-width: 800px;
     margin: 0 auto;
+}
+
+.contacts-content {
+    padding-left: 50px;
+}
+
+.contacts-data {
+    font-weight: bold;
 }
 
 .content-block {
